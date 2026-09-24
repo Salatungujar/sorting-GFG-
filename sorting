@@ -1,1 +1,9 @@
+Sorting is the process of arranging data (like numbers, strings, or objects) 
+in a specific sequence, typically ascending or descending.
 
+Core Goal
+To transform disorganized data into a structured order, making searching, retrieval,
+analysis, and processing significantly faster and more efficient.
+
+Time complexity typically ranges from O(n \log n) for efficient algorithms like 
+merge sort to O(n^2) for basic ones, while space complexity varies between O(1) and O(n).
